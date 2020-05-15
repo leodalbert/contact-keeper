@@ -1,5 +1,4 @@
 import React, { useContext, Fragment } from 'react'
-import { CSSTransition, TransitionGroup } from 'react-transition-group'
 import ContactItem from './ContactItem'
 import ContactContext from '../../context/contact/contactContext'
 
